@@ -1,1 +1,4 @@
-# ashwinishaktive1.github.io
+# Data Scientist
+
+### Education
+Artificial Intelligence, MS
